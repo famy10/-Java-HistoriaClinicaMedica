@@ -14,3 +14,5 @@ APLICACION DESDE EL PUNTO DE VISTA DEL PACIENTE
 
 El paciente puede consultar su historia clínica para las distintas especialidades que se hace atender en dicho hospital. Puede consultar el histórico de enfermedades registradas 
 hasta el día de la fecha, medicación, tratamiento y demás.
+
+Si ud. quiere  ejecu el programa desde el punto de vista del persdonal médico  descárguese el archivo  ProyectoFinalMedicos.jar
